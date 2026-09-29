@@ -2,7 +2,7 @@
 ># smollang
 
 `smollang` é uma linguagem simples projetada para a demonstração do analisador léxico (checkpoint 1) do compilador.
-
+> https://github.com/hellotalli/cp1-tarcila-giovana/tree/main/src
 ---
 
 ## 1. tabela de especificação de tokens
